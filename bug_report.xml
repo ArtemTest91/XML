@@ -1,1 +1,6 @@
-
+<?xml version="1.0"?>
+<ID>1234567</ID><Summary>Отсутствует кнопка зарегистрироваться</Summary>
+<Description>При открытии сайта www.tests.com в форме регистрации отсутствует кнопка "зарегистрироваться"</Description>
+<Step>1. Открыть сайт www.tests.com, 2. Перейти на страницу регистрации"</Step><expected result>Кнопка "зарегистрироваться" присутствует в форме</expected result>
+<Actual result>Кнопка отсутствует, см. вложение</Actual result><Attachments>ссылка на гуглдиск</Attachments><Priority>High</Priority>
+<Severity>High</Severity><Status>New</Status>
