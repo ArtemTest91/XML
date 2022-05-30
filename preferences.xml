@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
-<film>Avengers</film>
-<series>True detective</series>
-<dish>kebab</dish>
-<season>summer</season>
-<country>Italy</Italy>
+<parameter list>
+	<name>Андреев Артем Владимирович</name>
+	<age>31</age>
+	<animals>null</animals>
+	<salary>200k</salary>
+</parameter list>
