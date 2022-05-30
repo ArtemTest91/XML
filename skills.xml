@@ -1,2 +1,4 @@
 <?xml version="1.0"?>
-<skills>Теория, API, JS, Dev Tools, Postman, Git, Charles и Fiddler, SQL</skills>
+<skills list>
+	<skills>Теория, API, JS, Dev Tools, Postman, Git, Charles и Fiddler, SQL</skills>
+</skills list>
